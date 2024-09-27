@@ -1,8 +1,8 @@
 The objective was to build a ‘Prediction Model’ to predict the ‘Netflix Stock Price’ count based on 2002-2023 data metrics.
 Performed ‘Exploratory Data Analysis’ to find the correlation within the data and visualized the dataset using heatmaps and plots.
-WE will use historical stock price data for netflix to train and test machine learning models. the data consists of the following columns:
+We will use historical stock price data for netflix to train and test machine learning models. the data consists of the following columns:
 
-Date: The data of the stock price
+Date: The date of the stock price
 Open: The opening date of the  stock on that day
 High: The highest price of the stock on that day
 Low:  The lowest price of the stock on that day
